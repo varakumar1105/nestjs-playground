@@ -5,7 +5,7 @@ A collection of NestJS projects covering core concepts, best practices, and real
 ## Repository Structure
 
 - **basic-crud/**: Simple CRUD API
-- **auth-jwt/**: JWT-based authentication
+- **jwt-mongo/**: JWT-based authentication with MangoDB
 - **auth-oauth/**: OAuth authentication (Google, GitHub)
 - **graphql-api/**: GraphQL with NestJS
 - **websocket-chat/**: Real-time chat with WebSockets
